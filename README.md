@@ -1,0 +1,1 @@
+Estoy creando un repositorio junto con un archivo y un commit desde 0, para dar comienzo a los Homeworks de Henry. Actualmente, estoy haciendo el Homework correspondiente a la C2 del PrepCourse.
